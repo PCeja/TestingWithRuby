@@ -1,4 +1,4 @@
-<h1 align="center">Turorial - Ruby with Watir.</h1>
+<h1 align="center">Turorial - Ruby & Watir.</h1>
 
 <p align="center">
   <img style='width: 80%' alt="Technologies" src="https://www.rubyguides.com/wp-content/uploads/2019/01/watir-gem.png" />
