@@ -1,4 +1,8 @@
-# Turorial
+<h1 align="center">Turorial - Ruby with Watir.</h1>
+
+<p align="center">
+  <img style='width: 80%' alt="Technologies" src="https://www.rubyguides.com/wp-content/uploads/2019/01/watir-gem.png" />
+</p>
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/turorial`. To experiment with that code, run `bin/console` for an interactive prompt.
 
