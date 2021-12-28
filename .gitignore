@@ -8,7 +8,10 @@
 /spec/examples.txt
 /test/tmp/
 /test/version_tmp/
-/tmp/
+/log/*.log
+/tmp
+/vendor
+/.idea
 
 # Used by dotenv library to load environment variables.
 # .env
@@ -38,7 +41,7 @@ build-iPhoneSimulator/
 /doc/
 /rdoc/
 
-## Environment normalization:
+## Environment normalization:`
 /.bundle/
 /vendor/bundle
 /lib/bundler/man/
