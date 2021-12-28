@@ -4,7 +4,7 @@ require "webdrivers"
 RSpec.describe Turorial do
     it "should explore California" do
         browser = Watir::Browser.new
-        browser.goto "https://explorecalifornia.org/"
+        browser.goto "https://explorecalifornia.org/support.htm"
         
         expect(browser.text_field(id: "name").exists?).to equal(true)
         expect(browser.textarea(id: "comments").exists?).to equal(true)
